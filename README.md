@@ -1,2 +1,2 @@
 # Leetcode
-A repositorory containing leetcode solutions
+A repository containing leetcode solutions
