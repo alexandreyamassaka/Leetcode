@@ -1,4 +1,3 @@
-#include <iostream>
 #include <vector>
 #include <unordered_map>
 
@@ -14,17 +13,8 @@ std::vector<int> twoSum(std::vector<int>& nums, int target) {
 
         numMap[nums[i]] = i;
     }
-
     return {}; 
 }
 
-int main() {
-    std::vector<int> nums = {2, 7, 11, 15};
-    int target = 9;
 
-    std::vector<int> result = twoSum(nums, target);
-
-    std::cout << "[" << result[0] << ", " << result[1] << "]\n";
-    return 0;
-}
 
