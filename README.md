@@ -1,6 +1,6 @@
 # Leetcode
-This repository contains my solutions to Leetcode problems in both C++ and Pyhton.
+This repository contains my solutions to Leetcode problems in both C++ and Python.
 
-| Problem Name        | Problem Link                                        | C++ Solution File         | Python Solution File     |
-|---------------------|-----------------------------------------------------|---------------------------|--------------------------|
-| 1. Two Sum          | [Link](https://leetcode.com/problems/two-sum/)      | [0001-twoSum.cpp](solutions/cpp/0001-twoSum.cpp) | [0001-twoSum.py](solutions/python/0001-twoSum.py) |
+| # | Problem Name  | Problem Link                                    | C++ Solution File                    | Python Solution File               | Test Case      |
+|-------|---------------|-------------------------------------------------|--------------------------------------|------------------------------------|-----------------|
+| 1     | Two Sum       | [Link](https://leetcode.com/problems/two-sum/)  | [0001_two_sum.cpp](solutions/cpp/0001_two_sum.cpp) | [0001_two_sum.py](solutions/python/0001_two_sum.py) | [0001_two_sum_test](tests/cpp_tests/0001_two_sum_test.cpp) |
