@@ -10,3 +10,6 @@ This documents provides the time and space complexity analysis of the problems s
 - Space Complexity: O(n) - In worse case, we store all elements in the has table.
 
 ### 0002 - Add Two Numbers
+- Solution Approach: Linked List Traversal 
+- Time Complexity: O(max(m, n)) - We traverse both lists once, when m and n are their respective lengths.
+- Space Complexity: O(max(m, n)) - The output list has at most max(m, n) + 1 nodes in the worse case due to carry propagation.
