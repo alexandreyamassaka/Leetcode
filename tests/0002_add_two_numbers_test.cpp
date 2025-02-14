@@ -2,7 +2,7 @@
 
 #include <iostream>
 #include <cassert>
-#include "../../solutions/cpp/0002_add_two_numbers.cpp" 
+#include "../solutions/cpp/0002_add_two_numbers.cpp" 
 
 // Helper function to create singly linked list from array
 ListNode* createList(int array[], int size) {

@@ -3,7 +3,7 @@
 #include <iostream>
 #include <vector>
 #include <cassert>
-#include "../../solutions/cpp/0001_two_sum.cpp"
+#include "../solutions/cpp/0001_two_sum.cpp"
 
 int main(){
     // Test case 1:
