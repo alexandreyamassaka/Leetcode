@@ -8,3 +8,5 @@ This documents provides the time and space complexity analysis of the problems s
 - Solution Approach: Hash Map 
 - Time Complexity: O(n) - We traverse the list once, storing elements in a has table for quick lookups.
 - Space Complexity: O(n) - In worse case, we store all elements in the has table.
+
+### 0002 - Add Two Numbers
